@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 public class removeDuplicate {
-
+// ************----THIS PROGRAM WORKS STRICTLY FOR SORTED ARRAY----*********
     public static  void duplicate(){
         Scanner sc=new Scanner(System.in);
         System.out.println("enter the size of the array");
