@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class equiPoint {
-
     public static void equilibriumPoint(){
         Scanner sc=new Scanner(System.in);
         System.out.println("enter the size of  array");
