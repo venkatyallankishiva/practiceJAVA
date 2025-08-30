@@ -28,5 +28,21 @@ public class equiliPoint {
                 break;
             }
         }
+//        int sum = 0;
+//        for (int x : arr) {
+//            sum += x;
+//        }
+//
+//        int sum1 = 0;
+//        for (int m = 0; m < arr.length; m++) {
+//            sum -= arr[m];
+//
+//            if (sum1 == sum) {
+//                return m;
+//            }
+//
+//            sum1 += arr[m];
+//        }
+//        return -1;
     }
 }
