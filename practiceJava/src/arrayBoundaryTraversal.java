@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class arrayBoundaryTraversal {
     public static void arrayBoundaryElements(){
         Scanner sc=new Scanner(System.in);
-            System.out.print("Enter the number of rows: ");
+            System.out.print("Enter the number of rows:   ");
             int n = sc.nextInt();
             System.out.print("Enter the number of columns: ");
             int m = sc.nextInt();
