@@ -19,5 +19,8 @@ public class MissingNumber {
             sum-=a;
         }
         System.out.println("missing number"+sum);
+
     }
+
 }
+
