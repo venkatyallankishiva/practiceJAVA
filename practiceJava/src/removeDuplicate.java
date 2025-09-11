@@ -21,7 +21,6 @@ public class removeDuplicate {
                 }
             }
         System.out.println("there "+(i+1)+" unique elements in the array!!");
-            //this gives only unique elements from the array.
         for(int k=0;k<=i;k++){
             System.out.print(arr[k]+" ");
         }
