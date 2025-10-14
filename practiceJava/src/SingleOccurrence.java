@@ -30,6 +30,6 @@ public class SingleOccurrence {
                 return;
             }
         }
-        System.out.println("no single occurrence element found in the array");
+        System.out.println("no single occurrence element found ");
     }
 }
