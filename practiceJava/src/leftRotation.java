@@ -17,7 +17,7 @@ public class leftRotation {
         reverse(arr,0,k-1);
         reverse(arr,k,n-1);
         reverse(arr,0,n-1);
-        System.out.println("array after rotations is:");
+        System.out.println("array after left rotations is:");
         for(int a:arr){
             System.out.print(a+" ");
         }
